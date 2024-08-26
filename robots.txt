@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glayroun.github.io/sitemap.html.gz
+Sitemap: https://glayroun.github.io/app/sitemap.html.gz
+Sitemap: https://glayroun.github.io/assets/sitemap.html.gz
+Sitemap: https://glayroun.github.io/css/sitemap.html.gz
+Sitemap: https://glayroun.github.io/includes/sitemap.html.gz
+Sitemap: https://glayroun.github.io/item/sitemap.html.gz
+Sitemap: https://glayroun.github.io/src/sitemap.html.gz
